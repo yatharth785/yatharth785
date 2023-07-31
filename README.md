@@ -1,4 +1,5 @@
-### Hey there! I'm Yatharth, an Electronics and Communication Engineering student with a keen interest in cars and technology. This GitHub repository is a place where I showcase my projects and contributions that combine my engineering knowledge with my passion for automotive advancements. Join me on this exciting journey as we explore the exciting possibilities at the intersection of electronics, communication, and vehicles! Let's innovate together!
+### Hey there! I'm Yatharth
+An Electronics and Communication Engineering student with a keen interest in cars and technology. This GitHub repository is a place where I showcase my projects and contributions that combine my engineering knowledge with my passion for automotive advancements. Join me on this exciting journey as we explore the exciting possibilities at the intersection of electronics, communication, and vehicles! Let's innovate together!
 
 
 # 💻 Tech Stack:
